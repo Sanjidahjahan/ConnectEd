@@ -2,7 +2,7 @@
 - A web platform that helps Columbia University students find language-learning partners based on skill level, goals, and availability. Designed and built as part of a semester-long UX project around the theme of Social Good on Campus.
 
 **Live Demo**
-- 
+- https://sanjidahjahan.github.io/ConnectEd/
 
 **The Problem**
 - Language learners on campus struggle to find consistent practice partners with matching proficiency levels and schedules. Existing platforms are either too general or fail to support the sustained commitment that meaningful language practice requires.
